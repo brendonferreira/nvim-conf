@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/blee/Projects/onli/manager-client'
+let g:netrw_dirhist_8='/Users/blee/Projects/onli/manager-client/pages/administration'
+let g:netrw_dirhist_7='/Users/blee/Projects/onli/manager-client/pages'
+let g:netrw_dirhist_6='/Users/blee/Projects/onli/manager-client'
+let g:netrw_dirhist_5='/Users/blee/go/src/gitlab.com/onli-seguros/consultant/pkg/service'
+let g:netrw_dirhist_4='/Users/blee/go/src/gitlab.com/onli-seguros/consultant/pkg'
+let g:netrw_dirhist_3='/Users/blee/go/src/gitlab.com/onli-seguros/consultant'
+let g:netrw_dirhist_2='/Users/blee/go/src/gitlab.com/onli-seguros/consultant/store'
+let g:netrw_dirhist_1='/Users/blee/go/src/gitlab.com/onli-seguros/consultant'
+let g:netrw_dirhist_0='/Users/blee/go/src/gitlab.com/onli-seguros/consultant/store'
